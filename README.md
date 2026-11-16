@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # meu_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MEU-APP
+>>>>>>> e95615f7834a9d8f809dc64fd1b6be4ff7e6911c
